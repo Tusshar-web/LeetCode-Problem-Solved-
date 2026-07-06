@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0088-merge-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
