@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
