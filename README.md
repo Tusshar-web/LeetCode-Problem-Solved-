@@ -16,16 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0263-ugly-number) |
