@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
