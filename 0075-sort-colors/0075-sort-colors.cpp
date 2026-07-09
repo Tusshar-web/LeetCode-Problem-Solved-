@@ -1,35 +1,19 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        quick_sort(nums , 0 , nums.size()-1);
-    }
-    void quick_sort(vector<int> &nums , int low ,int high){
-            if(low<high){
-                int pInd = partition(nums , low , high);
-                quick_sort(nums, low , pInd-1);
-                quick_sort(nums, pInd+1, high);
+        int  n = nums.size() -1;
+        int low = 0 , mid = 0 , high = n;
+        while(mid <= high) {
+            if(nums[mid] == 0) {
+                swap(nums[low], nums[mid]);
+                mid++;
+                low++;
+            }else if(nums[mid]==1) {
+                mid ++;
+            } else {
+                swap(nums[mid], nums[high]);
+                    high --;
+                }
             }
         }
-    int partition(vector<int>& nums , int low , int high){
-        int pivot = nums[low];
-        int i = low;
-        int j = high;
-        while(i<j){
-            while(nums[i]<= pivot && i<=high-1) {
-                i++;
-            }
-            while(nums[j]> pivot && j>=low+1){
-                j--;
-            }
-            if(i<j){
-                int temp = nums[i];
-                nums[i]= nums[j];
-                nums[j] = temp;
-            }
-        }
-        int temp = nums[low];
-        nums[low] = nums[j];
-        nums[j] = temp;
-        return j;
-    }
 };
