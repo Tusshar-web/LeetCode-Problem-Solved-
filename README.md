@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
