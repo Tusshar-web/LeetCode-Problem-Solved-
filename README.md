@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0263-ugly-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0075-sort-colors) |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
