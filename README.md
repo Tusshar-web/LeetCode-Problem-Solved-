@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0053-maximum-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
