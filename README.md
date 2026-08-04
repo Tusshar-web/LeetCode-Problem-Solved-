@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
