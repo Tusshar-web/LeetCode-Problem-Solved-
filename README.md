@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
