@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Enumeration
 |  |
