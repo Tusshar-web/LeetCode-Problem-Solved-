@@ -11,12 +11,15 @@
 class Solution {
 public:
 ListNode* reverse(ListNode* head){
-    if(head == NULL || head->next == NULL) return head;
-    ListNode* newHead = reverse(head->next);
-    ListNode* front = head->next;
-    front->next = head;
-    head->next = NULL;
-    return newHead;
+    ListNode* prev = NULL;
+    ListNode* temp = head;
+    while(temp != NULL){
+        ListNode* front = temp->next;
+        temp->next = prev;
+        prev = temp;
+        temp = front;
+    }
+    return prev;
 }
     bool isPalindrome(ListNode* head) {
        ListNode* slow = head;
