@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -373,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
