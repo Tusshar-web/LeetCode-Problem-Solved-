@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
