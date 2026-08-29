@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0904-fruit-into-baskets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 ## Math
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
