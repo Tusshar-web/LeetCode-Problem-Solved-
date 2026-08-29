@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0560-subarray-sum-equals-k) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
