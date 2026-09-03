@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -474,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
