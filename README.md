@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0860-lemonade-change) |
+| [0864-image-overlap](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0864-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0904-fruit-into-baskets) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0864-image-overlap](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0864-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1901-find-a-peak-element-ii) |
 ## String Matching
 |  |
