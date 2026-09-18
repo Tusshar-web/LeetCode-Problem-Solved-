@@ -575,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
