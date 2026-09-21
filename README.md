@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
