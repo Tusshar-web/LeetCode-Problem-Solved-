@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0877-stone-game) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0540-single-element-in-a-sorted-array) |
