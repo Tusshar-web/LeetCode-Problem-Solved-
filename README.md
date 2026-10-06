@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1021-remove-outermost-parentheses) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0907-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -695,4 +700,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
