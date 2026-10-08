@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0886-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
