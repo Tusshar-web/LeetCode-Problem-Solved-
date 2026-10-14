@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
