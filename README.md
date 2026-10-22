@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Counting
 |  |
 | ------- |
