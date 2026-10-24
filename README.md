@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2409-count-days-spent-together) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2409-count-days-spent-together) |
 | [2556-convert-the-temperature](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2556-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
