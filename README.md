@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0864-image-overlap](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0864-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1901-find-a-peak-element-ii) |
 ## String Matching
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
