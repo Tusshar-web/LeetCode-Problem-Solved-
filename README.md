@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0864-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
