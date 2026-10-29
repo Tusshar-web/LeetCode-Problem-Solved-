@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2409-count-days-spent-together) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3831-find-x-value-of-array-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -479,12 +483,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -562,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -711,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
