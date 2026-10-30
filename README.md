@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -806,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
