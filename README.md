@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Union-Find
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
@@ -684,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0232-implement-queue-using-stacks) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -841,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
