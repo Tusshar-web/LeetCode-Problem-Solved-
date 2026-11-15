@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2383-add-two-integers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1603-running-sum-of-1d-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1603-running-sum-of-1d-array) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1603-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
