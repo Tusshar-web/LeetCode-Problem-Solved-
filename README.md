@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
