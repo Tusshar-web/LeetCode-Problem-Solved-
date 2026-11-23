@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1603-running-sum-of-1d-array) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
