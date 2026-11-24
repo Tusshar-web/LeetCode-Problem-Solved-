@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2556-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
