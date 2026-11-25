@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3731-find-missing-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3799-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Counting
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -878,4 +881,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
