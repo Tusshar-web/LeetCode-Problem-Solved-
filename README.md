@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2556-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Tusshar-web/LeetCode-Problem-Solved-/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
